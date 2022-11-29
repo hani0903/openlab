@@ -3,6 +3,7 @@
 int main(){
 
     foo();
-    hoo();
+    hoo(2022);
+
     return 0;
-}
+} 
